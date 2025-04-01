@@ -224,7 +224,7 @@ export const mockAccounts: Account[] = [
         dateTime: 'July 9, 2025',
         description: 'Inheritance Investment - XXXXXX3637',
         status: 'Pending',
-        amount_usd: 755000.0
+        amount_usd: 765000.0
       },
       {
         dateTime: 'April 4, 2025',
@@ -251,31 +251,25 @@ export const mockAccounts: Account[] = [
         amount_usd: 1252.50
       },
       {
-        dateTime: 'February 1, 2025',
-        description: 'Debit from United Airlines - XXXXXX4378',
-        status: 'Success',
-        amount_usd: -1800.00
-      },
-      {
-        dateTime: 'December 29, 2025',
+        dateTime: 'December 29, 2024',
         description: 'Walmart - XXXXXX0047',
         status: 'Success',
         amount_usd: -965.00
       },
       {
-        dateTime: 'December 17, 2025',
+        dateTime: 'December 17, 2024',
         description: 'Withdrawal - XXXXXX9646',
         status: 'Success',
         amount_usd: -5000.00
       },
       {
-        dateTime: 'December 15, 2025',
+        dateTime: 'December 15, 2024',
         description: 'Credit from Investment - XXXXXX4578',
         status: 'Success',
         amount_usd: 10000.00
       },
       {
-        dateTime: 'December 13, 2025',
+        dateTime: 'December 13, 2024',
         description: 'Account Open - XXXXXX2634',
         status: 'Success',
         amount_usd: 500.00
