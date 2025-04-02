@@ -220,12 +220,12 @@ export const mockAccounts: Account[] = [
       wireDate: true
     },
     transaction_history: [
-      // {
-      //   dateTime: 'July 9, 2025',
-      //   description: 'Inheritance Investment - XXXXXX3637',
-      //   status: 'Pending',
-      //   amount_usd: 765000.0
-      // },
+      {
+        dateTime: 'July 9, 2025',
+        description: 'Inheritance Investment - XXXXXX3637',
+        status: 'Pending',
+        amount_usd: 765000.0
+      },
       {
         dateTime: 'April 4, 2025',
         description: 'Contract: Payment from Knight Transportation - XXXXXX8490',
